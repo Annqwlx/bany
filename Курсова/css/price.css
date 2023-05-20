@@ -1,0 +1,46 @@
+/* ----------------------------------таблиця----------------------------------------------------------------    */
+.table{
+        /* float: right; */
+    margin-left: 860px;
+    margin-top: 140px;
+    
+}
+/* -----------------------------------слова--------------------------------------------------------- */
+.ss{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: -425px;
+    
+}
+.zz{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.ee{
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 6px;
+    margin-left: 97px;
+
+}
+.content{
+    float: left;
+}
+.rr{
+    font-weight: 500;
+    font-size: 24px;
+    margin-left:353px;
+    margin-top: 105px;
+
+}
+.number{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 190px;
+}
+
+.gg{
+
+}

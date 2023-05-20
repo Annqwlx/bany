@@ -1,0 +1,126 @@
+
+*{
+    box-sizing: border-box;
+
+}
+html, body{
+
+    height: 100px;
+    width: 100%;
+
+}
+body{
+    padding-top: 0.1px;
+    margin: 0px;
+    background-color: #FFFFEE;
+
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.content{
+    margin-top: 100px;
+    width: 100%;
+}
+
+.header{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+
+
+  }
+.na{
+    
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top: 35px;
+
+    
+
+}
+
+.palka-1{
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 15px;
+    margin-top: 35px;
+}
+
+.ff{
+    color: #978F8F;
+    font-weight: 500;
+    font-size: 16px;
+    margin-left: 17px;
+    margin-top: 40px;
+}
+.header a{
+    color: rgba(119, 119, 119, 1);
+    font-weight: 500;
+    font-size: 20px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.header a:hover{
+    color: rgba(67, 219, 210, 1);
+    margin-top: 32px;
+}
+.header div{
+    float: left;
+}
+.header img{
+    float: left;
+    margin-left: 20px;
+    width: 30px;
+    margin-top: 28px;
+
+    
+}
+
+.palka-2{
+    margin-top: 2px;
+    margin-left: 25px;
+}
+.palka-3{
+    margin-top: 2px;
+}
+.u{
+    margin-top: 2px;
+    color: rgba(253, 255, 170, 1);
+
+}
+.a{
+    margin-top: 2px;
+    color: rgba(0, 148, 255, 0.99);
+    
+}
+.header .menuitem1{
+    margin-left: 500px;
+}
+.header .language{
+    margin-top: 35px;
+
+}
+.header .active{
+    color: rgb(255, 225, 0);
+}
+.header .active:hover{
+    color: rgb(255, 225, 0);
+}
+
+.hide{
+    display: none;
+}
+.language{
+    cursor: pointer;
+}
